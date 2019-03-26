@@ -41,7 +41,7 @@
     <property name="java.class.path" value="/Users/sayri/Downloads/MavenProject/file-spy/.mvn/wrapper/maven-wrapper.jar"/>
     <property name="java.vm.specification.version" value="12"/>
     <property name="sun.arch.data.model" value="64"/>
-    <property name="sun.java.command" value="org.apache.maven.wrapper.MavenWrapperMain install"/>
+    <property name="sun.java.command" value="org.apache.maven.wrapper.MavenWrapperMain test"/>
     <property name="java.home" value="/Library/Java/JavaVirtualMachines/openjdk-12.jdk/Contents/Home"/>
     <property name="user.language" value="en"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
