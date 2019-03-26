@@ -1,6 +1,7 @@
+# Simple Instructions
+
 [![Build Status](https://travis-ci.org/sayrilamar/MavenTest.svg?branch=master)](https://travis-ci.org/sayrilamar/MavenTest)
 
-##Simple Instructions
 1. Clone Repo
 2. Run './mvnw compile'
 3. Run './mvnw clean install'
